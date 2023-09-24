@@ -1,2 +1,2 @@
-# Build-a-Transit-Data-Application
-Docker-SQL-Python-MongoDB(CDC)-Flask-Debezium-Maven-SpringBoot---Build-a-Transit-Data-Application
+# Build a Transit Data Application
+Tech Stack: Python, MySQL, MongoDB, Docker, Flask, Jupyter Notebook, Debezium, Maven, Java, Mapbox, VS Code
